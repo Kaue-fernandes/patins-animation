@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img alt="ZINGEN" src=".github/Screenshot 2026-04-23 184221" width="100%">
+  <img alt="patins-animation" src=".github/Screenshot 2026-04-23 184221" width="100%">
 </p>
 
 <br>
