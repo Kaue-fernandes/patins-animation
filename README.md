@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img alt="ZINGEN" src=".github/preview.jpg.jpg.png" width="100%">
+  <img alt="ZINGEN" src=".github/Screenshot 2026-04-23 184221" width="100%">
 </p>
 
 <br>
@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
   ## 💻 Projeto
 
-Nesse projeto você vai desenvolver a Landing Page de marketing completa e responsiva de um aplicativo de Karaokê chamado Zingen.
+Nesse projeto você vai desenvolver a Page de vendas de patins com animação chamado patins-animation.
 Esse é um dos projetos desenvolvidos em aula na formação Full-stack, um de nossos conteúdos de especialização.
 
 ## 🔖 Layout
